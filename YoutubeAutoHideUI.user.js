@@ -10,8 +10,8 @@
 // @match        https://*.youtube.com/*
 // @match        https://youtube.com/*
 // @grant        none
-// @updateURL    https://gist.github.com/KaanAlper/b49d2e4bbf9880f3774081977d50c3fe/raw/35c8ca163ff58cb28c914853fa7649e82d46f399/YoutubeAutoHideUI.user.js
-// @downloadURL  https://gist.github.com/KaanAlper/b49d2e4bbf9880f3774081977d50c3fe/raw/35c8ca163ff58cb28c914853fa7649e82d46f399/YoutubeAutoHideUI.user.js
+// @updateURL    https://github.com/KaanAlper/Youtube-Ui-Hider-userscript/raw/refs/heads/main/YoutubeAutoHideUI.user.js
+// @downloadURL  https://github.com/KaanAlper/Youtube-Ui-Hider-userscript/raw/refs/heads/main/YoutubeAutoHideUI.user.js
 // ==/UserScript==
 
 (function() {
