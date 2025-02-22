@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         YouTube Hide UI on Arrow Keys, Show on Mouse Move
-// @version      2.5
+// @version      2.6
 // @namespace    https://github.com/KaanAlper/youtube-ui-hide
 // @license      GPL-3.0
 // @description  Prevent the YouTube UI from appearing when using arrow keys, but make it visible on mouse movement (automatically detects all .ytp- elements)
